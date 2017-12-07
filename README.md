@@ -1,4 +1,4 @@
-# hello-word
+# hello-world
 A home for ideas, resources, thoughts
 
 
